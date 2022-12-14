@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/portfolio-website/static/css/main.9a83fea1.css",
+    "main.js": "/portfolio-website/static/js/main.ef8f8b20.js",
+    "static/media/port4.jpg": "/portfolio-website/static/media/port4.4b66a9d3d001b0592d03.jpg",
+    "static/media/testimonialsBg.jpg": "/portfolio-website/static/media/testimonialsBg.d56fe26d6f1430568e0d.jpg",
+    "static/media/port1.jpg": "/portfolio-website/static/media/port1.8db7ceecc39054d8bc60.jpg",
+    "static/media/headerWallpaper.jpg": "/portfolio-website/static/media/headerWallpaper.d82abb71ff343dbc7cdb.jpg",
+    "static/media/port2.jpg": "/portfolio-website/static/media/port2.a8a7dfa0fe73625cef55.jpg",
+    "static/media/port3.jpg": "/portfolio-website/static/media/port3.e57bc7c97ed820afa696.jpg",
+    "static/media/react.png": "/portfolio-website/static/media/react.ebb56ca47955bdc9fa25.png",
+    "static/media/david.png": "/portfolio-website/static/media/david.bfd80d93c3b77f65c957.png",
+    "static/media/christian.png": "/portfolio-website/static/media/christian.027afa56263ee72746c0.png",
+    "static/media/erika.png": "/portfolio-website/static/media/erika.779fe793d2170fd5165d.png",
+    "static/media/jessica.png": "/portfolio-website/static/media/jessica.39acfdd8c10d32e77dc7.png",
+    "static/media/brian.jpeg": "/portfolio-website/static/media/brian.6457e7100616bbd68cca.jpeg",
+    "static/media/logo.png": "/portfolio-website/static/media/logo.cb00d9aa90916bb95b53.png",
+    "static/media/css.png": "/portfolio-website/static/media/css.463e319bad8e0edf1ef7.png",
+    "static/media/html.png": "/portfolio-website/static/media/html.ff3cf75e3b7cbb4ea77c.png",
+    "index.html": "/portfolio-website/index.html",
+    "main.9a83fea1.css.map": "/portfolio-website/static/css/main.9a83fea1.css.map",
+    "main.ef8f8b20.js.map": "/portfolio-website/static/js/main.ef8f8b20.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9a83fea1.css",
+    "static/js/main.ef8f8b20.js"
+  ]
+}
